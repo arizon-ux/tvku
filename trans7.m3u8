@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script>
+//<![CDATA[
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("https://cdn.fluidplayer.com/v2/current/fluidplayer.min.css");
+//]]>
+</script>
+<script src='https://cdn.fluidplayer.com/v2/current/fluidplayer.min.js'/>
+
+
+<style>
+
+.video-responsive {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+}
+.video-responsive video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border:0;
+}
+
+
+</style>
+  </head>
+  <body>
+  
+  <div class="video-responsive">
+<video id="hls-video" poster="">
+    <source src="https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8?u=eroz_brebes.m3u8" type="application/x-mpegURL"/>
+</video>
+</div>
+  
+    <script>
+//<![CDATA[
+fluidPlayer(
+    'hls-video',
+    {
+        layoutControls: {
+            fillToContainer: false,
+            autoPlay: true
+        }
+    }
+);
+//]]>
+</script>
+  </body>
+</html>
