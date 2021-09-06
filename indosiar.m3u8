@@ -1,5 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3
-#EXTVLCOPT:http-user-agent="burhan.tv/9.6 (Linux;Android 7.1.2) ExoPlayerLib/2.8.4"
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
+#EXT-X-STREAM-INF:PROGRAM-ID=1
 https://gpc.my.id/vidio/indosiar.m3u8
