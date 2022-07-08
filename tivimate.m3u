@@ -58,7 +58,7 @@ https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://1.bp.blogspot.com/-B5xr9kcemvI/YQ9HwWI8d5I/AAAAAAAAIyI/FtPR8FaWzJkaYEZVjRz5VBPt9CfKkEH8wCLcBGAsYHQ/w400-h225/rans-entertaintment.png" group-title="Lokal", Rans Entertainment
-http://tvn.x10.bz/xchannel/master-21.m3u8
+#http://tvn.x10.bz/xchannel/master-21.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
