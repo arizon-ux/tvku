@@ -724,10 +724,6 @@ http://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/LQqABbX.png?v=1.0.0.1"" group-title="FASHION" , Fashion TV Midnight Secrets
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 
-#EXTM3U
-# Collected And Uploaded By (https://github.com/sabbiriptv)
-# Give Credit Before Sharing Otherwise 😒
-
 #EXTINF:-1 group-title="Toffee PAID {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID (Auto)
 https://sabbirhasan.pythonanywhere.com/worldcup/auto-paid
 #EXTINF:-1 group-title="Toffee PAID {BDIX}" tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg",Toffee PAID (720p)
